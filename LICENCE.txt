@@ -1,3 +1,5 @@
+SimpleIni library license:
+
 The MIT License (MIT)
 
 Copyright (c) 2006-2013 Brodie Thiesfield
